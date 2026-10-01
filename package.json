@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  },
+  "allowScripts": {
+    "cypress@16.1.1": true
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
